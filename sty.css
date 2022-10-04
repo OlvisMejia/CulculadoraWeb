@@ -1,0 +1,20 @@
+#formi{
+    width: 340px;
+    height: 200px;
+    background-color: aqua;
+    border-radius: 20px;
+    box-shadow: 100%;
+}
+
+#formi button{
+    background-color: brown;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+
+}
+#formi input{
+    border-radius: 10px;
+    background-color: white;
+
+}
